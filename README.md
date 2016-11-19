@@ -1,3 +1,3 @@
 # hello-world
-another repository
+another repository.
 My name is tatief
